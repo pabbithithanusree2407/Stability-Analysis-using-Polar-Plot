@@ -1,14 +1,13 @@
-# Stability-Analysis-using-Polar-Plot
+Stability-Analysis-using-Polar-Plot
 ## Aim:
 To analyse the stability of the system having open loop transfer function, G(S)=10/(S(1+0.5S)(1+0.2S)) using polar plot and verify it using MATLAB. 
 ## Apparatus Required:
 Computer with MATLAB software
 
 ## Theory:
-![WhatsApp Image 2025-11-16 at 19 23 12_33e53272](https://github.com/user-attachments/assets/78f7983c-6ace-4373-905d-bbfa0425732a)
-![WhatsApp Image 2025-11-16 at 19 23 17_ffbc9dc7](https://github.com/user-attachments/assets/703c2505-f176-4f03-aa15-d890c00ef7f4)
-![WhatsApp Image 2025-11-16 at 19 23 21_3d8aa3b5](https://github.com/user-attachments/assets/73645ce1-6ef8-4a37-a780-5f7d54a0209b)
-![WhatsApp Image 2025-11-16 at 19 29 01_e60a6ba0](https://github.com/user-attachments/assets/5155503f-879b-4e6d-9946-7ec6af057430)
+<img width="930" height="1280" alt="516274595-3cd11b1b-a141-44dc-b4d9-76782abecb82" src="https://github.com/user-attachments/assets/8171d78b-4f09-4a5d-8693-a388d010dff4" />
+
+<img width="944" height="1280" alt="516275089-140861e1-b9d2-414b-84ba-96300528bc16" src="https://github.com/user-attachments/assets/7013f5b4-ddad-4cd5-8ca0-2d813e4bcccd" />
 
 
 ## Procedure:
@@ -40,7 +39,8 @@ else
 end
 ```
 ## Output:
-<img width="1211" height="1007" alt="Screenshot 2025-11-16 191311" src="https://github.com/user-attachments/assets/8d9565bb-eb2a-4f37-8d2b-b013258f0f54" />
+<img width="713" height="640" alt="516167149-6a00cb9d-b6c0-4bbc-a401-dfe12abd0a89" src="https://github.com/user-attachments/assets/8dccceef-9bb3-44a2-8fa8-2441fc7227b7" />
+
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB. <br>
